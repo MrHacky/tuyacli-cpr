@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@tuyapi/cli": "^1.18.0",
+    "async-mqtt": "^2.6.2",
     "mqtt": "^4.3.7"
   }
 }
